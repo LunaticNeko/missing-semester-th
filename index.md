@@ -4,6 +4,14 @@ title: The Missing Semester of Your CS Education (โครงการแปล
 nositetitle: true
 ---
 
+การเรียนในชั้นเรียนทำให้ผู้เรียนได้รับความรู้ด้านวิทยาการคอมพิวเตอร์มากมาย ไม่ว่าจะเป็น
+ระบบปฏิบัติการ (operating systems) หรือการเรียนรู้โดยเครื่องจักร (machine learning)
+แต่ยังมีหัวข้อหนึ่งที่ไม่ค่อยมีการกล่าวถึง และผู้เรียนมักถูกทิ้งให้ศึกษากันเอาเอง
+หัวข้อนั้นก็คือการใช้เครื่องมืออย่างเชี่ยวชาญ ในกิจกรรมการเรียนนี้
+เราจะสอนให้ผู้เรียนใช้การพิมพ์คำสั่งสู่ระบบปฏิบัติการด้วย command line ได้อย่างเชี่ยวชาญ
+สามารถใช้โปรแกรมแก้ไขข้อความ (text editor) สามารถจัดการเวอร์ชันของงานที่ทำด้วย
+version control systems ตลอดจนหัวข้ออื่นๆ
+
 Classes teach you all about advanced topics within CS, from operating systems
 to machine learning, but there’s one critical subject that’s rarely covered,
 and is instead left to students to figure out on their own: proficiency with
@@ -117,7 +125,7 @@ AeroAstro](https://aeroastro.mit.edu/) for A/V equipment; and Brandi Adams and
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Source Code (ฉบับเดิมภาษาอังกฤษ / English Original)</a><a href="https://github.com/LunaticNeko/missing-semester-th">Source Code (โครงการแปลภาษาไทย / Thai Translation Project)</p>
+<p><a href="https://github.com/missing-semester/missing-semester">Source Code (ฉบับเดิมภาษาอังกฤษ / English Original)</a> / <a href="https://github.com/LunaticNeko/missing-semester-th">Source Code (โครงการแปลภาษาไทย / Thai Translation Project)</a></p>
 <p>Licensed under CC BY-NC-SA. (Thai Translation Project also CC BY-NC-SA.)</p>
 <p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
 </div>
