@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Missing Semester of Your CS Education
+title: The Missing Semester of Your CS Education (โครงการแปลภาษาไทย)
 nositetitle: true
 ---
 
@@ -117,7 +117,7 @@ AeroAstro](https://aeroastro.mit.edu/) for A/V equipment; and Brandi Adams and
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Source code</a>.</p>
-<p>Licensed under CC BY-NC-SA.</p>
+<p><a href="https://github.com/missing-semester/missing-semester">Source Code (ฉบับเดิมภาษาอังกฤษ / English Original)</a><a href="https://github.com/LunaticNeko/missing-semester-th">Source Code (โครงการแปลภาษาไทย / Thai Translation Project)</p>
+<p>Licensed under CC BY-NC-SA. (Thai Translation Project also CC BY-NC-SA.)</p>
 <p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
 </div>
