@@ -18,6 +18,8 @@ version control systems ตลอดจนหัวข้ออื่นๆ
 เหล่านี้ให้เชี่ยวชาญทำให้ท่านใช้เวลาศึกษาเอาเองน้อยลง และยังสามารถ
 แก้ปัญหาที่อาจยากเกินขอบเขตเดิมของท่านได้ด้วย
 
+[ศึกษาแรงจูงใจที่ทำให้เกิดวิชานี้](/about/)
+
 {% comment %}
 
 Classes teach you all about advanced topics within CS, from operating systems
