@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Course overview + the shell"
+title: "อธิบายรายวิชา และการใช้ shell (Course overview + the shell)"
 date: 2020-01-13
 ready: true
 video:
@@ -8,7 +8,15 @@ video:
   id: Z56Jmr9Z34Q
 ---
 
-# Motivation
+# แรงจูงใจ (Motivation)
+
+คอมพิวเตอร์เป็นเครื่องมือที่สามารถช่วยให้มนุษย์ทำงานที่มีการวนซ้ำ (repetitive)
+ได้ดี แต่หลายครั้งเราเองก็มักลืมว่าตัวเราเองเวลาจะใช้คอมพิวเตอร์ก็วนซ้ำเช่นกัน
+ทั้งๆ ที่เรามีเครื่องมือมากมายที่จะใช้งานได้ แต่เรากลับใช้แค่ไม่กี่ชิ้น
+เราใช้คาถาที่เราท่องจำกันมาเพื่อเอาตัวรอดไปวันๆ และเอาแต่คัดลอกคำสั่งจาก
+คนอื่นเมื่อเราจะแก้ปัญหาที่ยากขึ้น
+
+เราจะมาพยายามแก้ปัญหานี้กัน
 
 As computer scientists, we know that computers are great at aiding in
 repetitive tasks. However, far too often, we forget that this applies
