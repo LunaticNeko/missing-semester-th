@@ -26,6 +26,20 @@ docker-compose up --build
 Then, navigate to <http://localhost:4000> on your host machine to view the
 website. Jekyll will re-build the website as you make changes to files.
 
+## Thai Translation Team (คณะผู้แปลภาษาไทย)
+
+**Department of Computer Engineering, Kasetsart University**
+
+* Advisor: Prof. Chantana Chantrapornchai (HPCNC)
+* Lead Translator: Chawanat Nakasan (HPCNC)
+
+(HPCNC = [High-Performance Computing and Networking Center](https://hpcnc.in.th/))
+
+Send all help, appreciation, and complaints about Thai language to the link above.
+
 ## License
 
 All the contents in this course, including the website source code, lecture notes, exercises, and lecture videos are licensed under Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [here](https://missing.csail.mit.edu/license) for more information on contributions or translations.
+
+Translator Note: The translation uses the same license terms.
+การแปลของคณะผู้แปล ใช้เงื่อนไขสัญญาอนุญาตชุดเดียวกัน
