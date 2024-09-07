@@ -12,6 +12,14 @@ nositetitle: true
 สามารถใช้โปรแกรมแก้ไขข้อความ (text editor) สามารถจัดการเวอร์ชันของงานที่ทำด้วย
 version control systems ตลอดจนหัวข้ออื่นๆ
 
+ผู้เรียนต้องฝึกฝนทักษะการใช้เครื่องมือเหล่านี้เป็นเวลาหลายร้อยชั่วโมง
+และในชีวิตการทำงานจริงก็ใช้เวลาเป็นพันชั่วโมง ดังนั้น เราจึงคิดว่าการทำให้
+การสอนทักษะเหล่านี้เป็นไปได้ง่ายและสบายที่สุดเป็นสิ่งสำคัญ การใช้เครื่องมือ
+เหล่านี้ให้เชี่ยวชาญทำให้ท่านใช้เวลาศึกษาเอาเองน้อยลง และยังสามารถ
+แก้ปัญหาที่อาจยากเกินขอบเขตเดิมของท่านได้ด้วย
+
+{% comment %}
+
 Classes teach you all about advanced topics within CS, from operating systems
 to machine learning, but there’s one critical subject that’s rarely covered,
 and is instead left to students to figure out on their own: proficiency with
@@ -26,6 +34,7 @@ your will, but it also lets you solve problems that would previously seem
 impossibly complex.
 
 Read about the [motivation behind this class](/about/).
+{% endcomment %}
 
 {% comment %}
 # Registration
@@ -33,7 +42,7 @@ Read about the [motivation behind this class](/about/).
 Sign up for the IAP 2020 class by filling out this [registration form](https://forms.gle/TD1KnwCSV52qexVt9).
 {% endcomment %}
 
-# Schedule
+# ตารางเรียน
 
 {% comment %}
 **Lecture**: 35-225, 2pm--3pm<br>
@@ -59,15 +68,21 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 Video recordings of the lectures are available [on
 YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J).
 
-# About the class
+# เกี่ยวกับรายวิชานี้
 
-**Staff**: This class is co-taught by [Anish](https://www.anishathalye.com/), [Jon](https://thesquareplanet.com/), and [Jose](http://josejg.com/).<br>
-**Questions**: Email us at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
+**ผู้สอน**: ผู้สอนเดิมของวิชานี้ประกอบด้วย [Anish](https://www.anishathalye.com/), [Jon](https://thesquareplanet.com/), and [Jose](http://josejg.com/).<br>
+**สอบถาม**: ติดต่อทางอีเมล์ได้ที่ [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
 
-# Beyond MIT
+TN: กรณีสอบถามเกี่ยวกับการแปล และคำถามที่จะถามทีมแปลภาษาไทย ให้ติดต่อที่
+[ห้องปฏิบัติการวิจัยการประมวลผลสมรรถนะสูงและเครือข่าย มหาวิทยาลัยเกษตรศาสตร์](https://hpcnc.in.th) 
+สำหรับโครงการสอนสดของห้องปฏิบัติการ นิสิตปัจจุบัน มหาวิทยาลัยเกษตรศาสตร์ 
+ให้ติดต่อที่ห้องปฏิบัติการ ห้อง 801 อาคารภาควิชาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์ 
+(บุคคลภายนอกให้ติดต่อทางช่องทางที่กำหนดเท่านั้น)
 
-We've also shared this class beyond MIT in the hopes that others may
-benefit from these resources. You can find posts and discussion on
+# การเผยแพร่นอก MIT
+
+คณะผู้สอนได้นำชั้นเรียนนี้ไปถ่ายนอดให้นอก MIT เพื่อแบ่งปันความรู้ โดยสามารถ
+ศึกษาข้อมูลเพิ่มเติมได้จากแหล่งที่ให้นี้
 
  - [Hacker News](https://news.ycombinator.com/item?id=22226380)
  - [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
@@ -107,8 +122,8 @@ Some more URLs:
 - [German](https://missing-semester-de.github.io/)
 - [Bengali](https://missing-semester-bn.github.io/)
 
-Note: these are external links to community translations. We have not vetted
-them.
+โปรดทราบว่า ข้อมูลข้างต้นเป็นลิงค์ไปยังการแปลโดยผู้แปลอิสระ ทางคณะผู้สอน
+ไม่ได้ตรวจสอบความถูกต้อง
 
 Have you created a translation of the course notes from this class? Submit a
 [pull request](https://github.com/missing-semester/missing-semester/pulls) so
