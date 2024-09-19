@@ -23,6 +23,8 @@ video:
 (หรือสร้าง) เครื่องมือใหม่ๆ ขึ้นมาใช้เอง
 ซึ่งเป็นสิ่งที่เราคิดว่าขาดหายไปจากหลักสูตรวิทยาการคอมพิวเตอร์ส่วนใหญ่
 
+{% comment %}
+
 As computer scientists, we know that computers are great at aiding in
 repetitive tasks. However, far too often, we forget that this applies
 just as much to our _use_ of the computer as it does to the computations
@@ -41,7 +43,30 @@ excitement for exploring (and perhaps building) more tools on your own.
 This is what we believe to be the missing semester from most Computer
 Science curricula.
 
-# Class structure
+{% endcomment %}
+
+# โครงสร้างรายวิชา (Class structure)
+
+วิชานี้ประกอบด้วยการบรรยาย 1 ชั่วโมงจำนวนทั้งสิ้น 11 ครั้ง โดยแต่ละครั้งจะประกอบด้วย
+[หัวข้อต่างๆ](/2020/) การบรรยายเหล่านี้จะเป็นอิสระต่อกันค่อนข้างมาก แต่ในช่วงหลังๆ
+เราจะอนุมานว่าท่านเข้าใจเนื้อหาในส่วนแรกมาบ้างแล้ว
+เรามีเอกสารประกอบการสอนออนไลน์ให้ แต่ก็ยังมีเนื้อหาจำนวนมากที่ไม่ได้ลงในเอกสารไว้
+เช่น การสาธิตต่างๆ ซึ่งเราจะบันทึกการบรรยายและนำการบันทึกนี้ขึ้นทางช่องทางออนไลน์
+
+เราพยายามที่จะสอนให้ครอบคลุมอย่างมากในช่วง 11 ครั้งนี้ ทำให้การบรรยายมีเนื้อหาค่อนข้างแน่น
+เพื่อให้ท่านสามารถติดตามเนื้อหาเองได้ 
+การบรรยายแต่ละครั้งจะมีกิจกรรมที่ชี้นำแนวทางเกี่ยวกับประเด็นสำคัญของการบรรยาย
+หลังจากการบรรยายแต่ละครั้ง จะมีการจัดชั่วโมงให้คำปรึกษา (office hours)
+เพื่อตอบข้อสงสัยต่างๆ ผู้ที่ศึกษาออนไลน์สามารถส่งคำถามได้ที่
+[missing-semester@mit.edu](mailto:missing-semester@mit.edu).
+
+(ผู้แปล: ผู้เรียนที่ใช้เนื้อหาฉบับภาษาไทย ให้ติดต่อผู้สอนที่
+[ห้องปฏิบัติการวิจัยการประมวลผลสมรรถนะสูงและเครือข่าย มหาวิทยาลัยเกษตรศาสตร์](https://hpcnc.in.th))
+
+เนื่องจากเรามีเวลาจำกัด เราจะไม่กล่าวถึงเครื่องมือทั้งหมดเหมือนกับว่าเราสอนห้องเรียนปกติ
+โดยเราจะชี้แนวทางให้ท่านได้ศึกษาเพิ่มเติมเอง แต่ถ้าหากสนใจเพิ่มก็สามารถสอบถามเราได้เช่นกัน
+
+{% comment %}
 
 The class consists of 11 1-hour lectures, each one centering on a
 [particular topic](/2020/). The lectures are largely independent,
@@ -65,6 +90,8 @@ in the same level of detail a full-scale class might. Where possible, we
 will try to point you towards resources for digging further into a tool
 or topic, but if something particularly strikes your fancy, don't
 hesitate to reach out to us and ask for pointers!
+
+{% endcomment %}
 
 # Topic 1: The Shell
 
