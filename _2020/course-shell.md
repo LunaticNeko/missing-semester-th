@@ -93,7 +93,7 @@ hesitate to reach out to us and ask for pointers!
 
 {% endcomment %}
 
-# Topic 1: The Shell
+# หัวข้อที่ 1: เชลล์ (Shell)
 
 ## What is the shell?
 
