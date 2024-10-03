@@ -95,7 +95,7 @@ hesitate to reach out to us and ask for pointers!
 
 # หัวข้อที่ 1: เชลล์ (Shell)
 
-## What is the shell?
+## Shell คืออะไร
 
 Computers these days have a variety of interfaces for giving them
 commands; fanciful graphical user interfaces, voice interfaces, and
